@@ -24,8 +24,11 @@ sudo apt nvidia-driver-510 # CUDA 11.6
 - [Installing Pytorch with CUDA support on Windows 10](https://pub.towardsai.net/installing-pytorch-with-cuda-support-on-windows-10-a38b1134535e)
 
 #### Steps
-1. First install the display driver from [Here](https://www.nvidia.com/download/index.aspx)(Filled the options with your GPU configuration)
-2. To chck weather the 
+1. First install the display driver from [Here](https://www.nvidia.com/download/index.aspx) (Fill the options with your GPU configuration).
+2. To chck weather the the driver installed or not. Check ```nvidia-smi```.
+3. Next check the CUDA version support [Pytorch](https://pytorch.org/get-started/locally/) or [Tensorflow](https://www.tensorflow.org/install/pip)
+4. Now download the [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) that compatiable with pytorch or tensorflow.
+5. 
 
 
 
