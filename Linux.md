@@ -26,7 +26,7 @@ sudo apt nvidia-driver-510 # CUDA 11.6
 ](https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1)
 - [Installing Pytorch with CUDA support on Windows 10](https://pub.towardsai.net/installing-pytorch-with-cuda-support-on-windows-10-a38b1134535e)
 
-#### Steps
+#### Nvidia Install Steps
 1. First install the Nvidia display driver from [Here](https://www.nvidia.com/download/index.aspx) (Fill the options with your GPU configuration).
 2. To chck weather the the driver installed or not. Check ```nvidia-smi```.
 3. Next check the CUDA version support [Pytorch](https://pytorch.org/get-started/locally/) or [Tensorflow](https://www.tensorflow.org/install/pip)
