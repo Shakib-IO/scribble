@@ -1,5 +1,8 @@
 #### Commands
-
+- Details of Linux system
+```
+cat /etc/*release
+```
 - How to determine Linux kernel architecture?
 ```
 uname -a
