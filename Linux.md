@@ -31,7 +31,7 @@ sudo apt nvidia-driver-510 # CUDA 11.6
 2. To chck weather the the driver installed or not. Check ```nvidia-smi```.
 3. Next check the CUDA version support [Pytorch](https://pytorch.org/get-started/locally/) or [Tensorflow](https://www.tensorflow.org/install/pip)
 4. Now download the [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) that compatiable with pytorch or tensorflow.
-5. 
+5. Check the nvcc version ```nvcc --version```
 
 
 
