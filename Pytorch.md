@@ -1,1 +1,1 @@
-
+- Torch and Pylint [issue](https://www.cluzters.ai/forums/topic/659/py-torch-error-message-torch-has-no-member/view/post_id/2142?c=1597)
