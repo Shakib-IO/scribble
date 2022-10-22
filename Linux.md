@@ -19,7 +19,10 @@ apt search nvidia-driver
 # OR 
 sudo apt nvidia-driver-510 # CUDA 11.6
 ```
-
+- Get the CUDA list
+```
+ls -l /usr/local | grep cuda
+````
 #### Links
 - [MultiCUDA: Multiple Versions of CUDA on One Machine](https://medium.com/@peterjussi/multicuda-multiple-versions-of-cuda-on-one-machine-4b6ccda6faae)
 - [Install CUDA 11.2, cuDNN 8.1.0, PyTorch v1.8.0 (or v1.9.0), and python 3.9 on RTX3090 for deep learning
