@@ -1,2 +1,3 @@
 - Torch and Pylint [issue](https://www.cluzters.ai/forums/topic/659/py-torch-error-message-torch-has-no-member/view/post_id/2142?c=1597)
 - [Previous Versions](https://pytorch.org/get-started/previous-versions/)
+- [Pytorch Broadcasting work](https://stackoverflow.com/questions/51371070/how-does-pytorch-broadcasting-work) [Video](https://youtu.be/QscEWm0QTRY)
