@@ -3,3 +3,4 @@
 - [Pytorch Broadcasting work](https://stackoverflow.com/questions/51371070/how-does-pytorch-broadcasting-work) | [Video](https://youtu.be/QscEWm0QTRY)
 - [Why do we need to call zero_grad() in PyTorch?](https://stackoverflow.com/questions/48001598/why-do-we-need-to-call-zero-grad-in-pytorch)
 - [ipython notebook is not updating when I change my code](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
+- [Pytorch Quick Tip: Weight Initialization](https://youtu.be/xWQ-p_o0Uik)
