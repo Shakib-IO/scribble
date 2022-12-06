@@ -5,3 +5,4 @@
 - [ipython notebook is not updating when I change my code](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
 - [Pytorch Quick Tip: Weight Initialization](https://youtu.be/xWQ-p_o0Uik)
 - [Practical Deep Learning for Coders by Fast ai](https://course.fast.ai/)
+- [PyTorch with an example](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
