@@ -47,3 +47,5 @@ lscpu
 
 ##### CUDA Application Compatibility Support Matrix
 ![Screenshot from 2022-10-16 12-44-28](https://user-images.githubusercontent.com/65369990/196057463-68c0da93-ae3b-44aa-bb05-61a4d2f1cf01.png)
+
+- [Different CUDA versions shown by nvcc and NVIDIA-smi](https://stackoverflow.com/questions/53422407/different-cuda-versions-shown-by-nvcc-and-nvidia-smi)
