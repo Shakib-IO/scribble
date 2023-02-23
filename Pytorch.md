@@ -6,3 +6,4 @@
 - [Pytorch Quick Tip: Weight Initialization](https://youtu.be/xWQ-p_o0Uik)
 - [Practical Deep Learning for Coders by Fast ai](https://course.fast.ai/)
 - [PyTorch with an example](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+- [Tensor](https://medium.com/data-science-365/real-world-examples-of-0d-1d-2d-3d-4d-and-5d-tensors-100b0837ced4)
