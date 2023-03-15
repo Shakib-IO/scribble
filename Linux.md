@@ -48,7 +48,7 @@ ls -Q	Place double quotations around the entry names.
 - Find the Usage of CPU and [GPU](https://unix.stackexchange.com/questions/38560/gpu-usage-monitoring-cuda)
 ```
 top // for CPU
-watch -d -n 0.5 nvidia-smi // for CPU
+watch -d -n 0.5 nvidia-smi // for GPU
 ```
 
 
