@@ -5,6 +5,5 @@
 #### **Computer Vision Applications**
 
 
-
 #### **MLOps Project**
 - [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
