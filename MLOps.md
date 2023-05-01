@@ -11,3 +11,4 @@
 
 #### **Blogs**
 - [Jeremy Jordan, Data Scientist at Duo Security](https://www.jeremyjordan.me/)
+- [Chip Huyen](https://huyenchip.com/mlops/)
