@@ -7,3 +7,7 @@
 
 #### **MLOps Project**
 - [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
+
+
+#### **Blogs**
+- [Jeremy Jordan, Data Scientist at Duo Security](https://www.jeremyjordan.me/)
