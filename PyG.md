@@ -7,7 +7,7 @@ pip install torch-sparse==0.6.0 -f https://pytorch-geometric.com/whl/torch-1.4.0
 pip install torch_scatter==2.0.3 -f https://pytorch-geometric.com/whl/torch-1.4.0+cu101.html
 pip install torch_cluster==1.5.2 -f https://pytorch-geometric.com/whl/torch-1.4.0+cu101.html
 ```
-[Pyg](https://data.pyg.org/whl/torch-1.9.1%2Bcu102.html)
+[PyG](https://data.pyg.org/whl/torch-1.9.1%2Bcu102.html)
 ```
 #CUDA 10.2 & Pytorch 1.9.1
 pip install torch==1.9.1 torchvision==0.10.1 torchaudio==0.9.1
