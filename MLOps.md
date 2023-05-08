@@ -7,6 +7,7 @@
 
 #### **MLOps Project**
 - [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
+- [MLOps-Basics 2021](https://github.com/graviraja/MLOps-Basics)
 
 
 #### **Blogs**
