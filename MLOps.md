@@ -24,3 +24,6 @@
 - [chiphuyen/machine-learning-book](https://github.com/chiphuyen/machine-learning-book)
 - [Full Stack Deep Learning 2022](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs)
 - [MLOps: Aleksa Gordić - The AI Epiphany](https://www.youtube.com/playlist?list=PLBoQnSflObckkY7EzV02jifGKgwtBdBW8)
+
+#### **Tools**
+- [Hydra — A fresh look at configuration for machine learning projects](https://medium.com/pytorch/hydra-a-fresh-look-at-configuration-for-machine-learning-projects-50583186b710)
