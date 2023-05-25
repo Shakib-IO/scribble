@@ -9,6 +9,7 @@
 - [Tensor](https://medium.com/data-science-365/real-world-examples-of-0d-1d-2d-3d-4d-and-5d-tensors-100b0837ced4)
 
 ```
-out.max(1)[1] is used to obtain the tensor of indices corresponding to the maximum values along dimension 1 of the tensor
+out.max(1) is a tuple containing two elements: the tensor of maximum values along dimension 1 and the tensor of indices corresponding to those maximum values.
 out.max(1)[0] is used to obtain the tensor of maximum values along dimension 1 of the tensor out
+out.max(1)[1] is used to obtain the tensor of indices corresponding to the maximum values along dimension 1 of the tensor
 ```
