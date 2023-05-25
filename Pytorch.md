@@ -7,3 +7,9 @@
 - [Practical Deep Learning for Coders by Fast ai](https://course.fast.ai/)
 - [PyTorch with an example](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 - [Tensor](https://medium.com/data-science-365/real-world-examples-of-0d-1d-2d-3d-4d-and-5d-tensors-100b0837ced4)
+
+```
+out.max(1)[1] is used to obtain the tensor of indices corresponding to the maximum values along dimension 1 of the tensor
+out.max(1)[0] is used to obtain the tensor of maximum values along dimension 1 of the tensor out
+
+```
