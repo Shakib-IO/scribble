@@ -13,6 +13,6 @@ out.max(1) is a tuple containing two elements: the tensor of maximum values alon
 out.max(1)[0] is used to obtain the tensor of maximum values along dimension 1 of the tensor out
 out.max(1)[1] is used to obtain the tensor of indices corresponding to the maximum values along dimension 1 of the tensor
 ```
-##### Pytorch Training
+#### Pytorch Training
 - [Connection between loss.backward() and optimizer.step()](https://stackoverflow.com/a/66192315)
 - [Training Neural Networks](https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter4_neural-networks-pt2.html)
