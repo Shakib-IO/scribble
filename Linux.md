@@ -51,7 +51,7 @@ top // for CPU
 watch -d -n 0.5 nvidia-smi // for GPU
 ```
 
-
+- [Nvidia NVML Driver/library version mismatch ](https://stackoverflow.com/questions/43022843/nvidia-nvml-driver-library-version-mismatch)
 
 #### Links
 - [MultiCUDA: Multiple Versions of CUDA on One Machine](https://medium.com/@peterjussi/multicuda-multiple-versions-of-cuda-on-one-machine-4b6ccda6faae)
