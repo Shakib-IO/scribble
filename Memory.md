@@ -1,2 +1,2 @@
-- ##### [Numpy Memory](https://stackoverflow.com/questions/57507832/unable-to-allocate-array-with-shape-and-data-type)
-- ##### [Numpy Memory - dtype](https://stackoverflow.com/a/59837239)
+- [Numpy Memory](https://stackoverflow.com/questions/57507832/unable-to-allocate-array-with-shape-and-data-type)
+- [Numpy Memory - dtype](https://stackoverflow.com/a/59837239)
