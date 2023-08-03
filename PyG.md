@@ -22,5 +22,5 @@ pip install torch-spline-conv==1.2.1 -f https://pytorch-geometric.com/whl/torch-
 If installation [frozen](https://stackoverflow.com/questions/70450671/unable-to-install-torch-sparse-package)
 ```
 pip install torch_scatter==2.0.9 --no-cache-dir -f https://data.pyg.org/whl/torch-1.10.0+cpu.html
-pip install torch_sprase==0.6.12 --no-cache-dir -f https://data.pyg.org/whl/torch-1.10.0+cpu.html
+pip install torch_sparse==0.6.9 --no-cache-dir -f https://data.pyg.org/whl/torch-1.7.0+cpu.html
 ```
