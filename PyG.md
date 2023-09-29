@@ -25,3 +25,6 @@ pip install torch_scatter==2.0.9 --no-cache-dir -f https://data.pyg.org/whl/torc
 pip install torch_sparse==0.6.9 --no-cache-dir -f https://data.pyg.org/whl/torch-1.7.0+cpu.html
 pip install --no-index torch-sparse -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
 ```
+
+### Definitions
+- ['indices', 'indptr', 'format', 'shape', 'data'](https://stackoverflow.com/questions/52299420/scipy-csr-matrix-understand-indptr)
