@@ -8,6 +8,11 @@ python -m ipykernel install --user --name=YOUR_ENV_NAME
 conda env export > environment.yml
 ```
 
+To check envs
+```
+conda info --envs
+```
+
 
 ## For bdss20k-dataset
 
