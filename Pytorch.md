@@ -16,3 +16,7 @@ out.max(1)[1] is used to obtain the tensor of indices corresponding to the maxim
 #### Pytorch Training
 - [Connection between loss.backward() and optimizer.step()](https://stackoverflow.com/a/66192315)
 - [Training Neural Networks](https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter4_neural-networks-pt2.html)
+
+
+#### Library
+- [TorchScale - A Library of Foundation Architectures](https://github.com/microsoft/torchscale)
