@@ -22,4 +22,4 @@ out.max(1)[1] is used to obtain the tensor of indices corresponding to the maxim
 - [TorchScale - A Library of Foundation Architectures](https://github.com/microsoft/torchscale)
 - [Timm](https://timm.fast.ai/)
 - [MyST Parser](https://myst-parser.readthedocs.io/en/v0.15.1/sphinx/intro.html)
-- [sphinx](https://www.sphinx-doc.org/en/master/usage/markdown.html)
+- [Sphinx](https://www.sphinx-doc.org/en/master/usage/markdown.html)
