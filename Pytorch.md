@@ -20,3 +20,4 @@ out.max(1)[1] is used to obtain the tensor of indices corresponding to the maxim
 
 #### Library
 - [TorchScale - A Library of Foundation Architectures](https://github.com/microsoft/torchscale)
+- [Timm](https://timm.fast.ai/)
