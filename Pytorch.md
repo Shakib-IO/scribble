@@ -23,3 +23,15 @@ out.max(1)[1] is used to obtain the tensor of indices corresponding to the maxim
 - [Timm](https://timm.fast.ai/)
 - [MyST Parser](https://myst-parser.readthedocs.io/en/v0.15.1/sphinx/intro.html)
 - [Sphinx](https://www.sphinx-doc.org/en/master/usage/markdown.html)
+
+#### Code
+```
+x = torch.randn(3,224,224) # x.dim() = 3
+a = x.permute(0, 2, 1).view(x.size(0), x.size(2), 1, -1)  # Reshape and View
+print(a.shape) # (3, 224, 1, 224)
+
+y = torch.randn(1,3,256,256) # y.dim() = 4
+b = y.permute(0, 2, 1, 3).view(y.size(0), y.size(2), -1, y.size(3))
+print(b.shape) # torch.Size([1, 256, 3, 256])
+
+```
